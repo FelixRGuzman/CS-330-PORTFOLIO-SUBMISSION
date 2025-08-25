@@ -1,5 +1,10 @@
 # CS-330-PORTFOLIO-SUBMISSION
 
+# IMPORTANT READ FIRST
+Hello Professor,
+
+I couldn't fit the file into GitHub because of the 25 MB limit. I could've added a Google Drive link, but since you already received my final via Brightspace, I left the folder empty. Just wanted to let you know why the folder is empty. Everything else is fine though, thanks for reading in advance!
+
 # How do I approach designing software?
 When designing software I always look at the big picture and then separate it into small goals. I tackle those goals one by one, then build the solution once I finish solving the smaller puzzles. For this chess project I planned the scene, built the first piece, then added different elements. Once those small puzzles were solved I implemented the big solution by picking out potential reusable functions (ones that make the pieces) and other overall functions that would help me iterate and develop the rest of my scene. The main design decisions that came into play were modularization and reusability.
 
